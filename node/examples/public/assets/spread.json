@@ -1,0 +1,26 @@
+{
+  "list":[
+    {
+      "name":"超级炸鸡会场",
+      "img":"https://gw.alicdn.com/imgextra/i2/O1CN01EHXwxB1EtMfdfp64d_!!6000000000409-2-tps-800-450.png",
+      "href":"//s.click.ele.me/SHDxCmu",
+      "platform":"饿了么",
+      "id":20150318020005049
+    },
+    {
+      "name":"春日元气下午茶",
+      "img":"https://gw.alicdn.com/imgextra/i2/O1CN01rkzxym1NkVY83cXzy_!!6000000001608-2-tps-800-450.png",
+      "href":"//s.click.ele.me/GxYwCmu",
+      "platform":"饿了么",
+      "id":20150318020004425
+    },
+    {
+      "name":"每日领饿了么餐饮红包",
+      "img":"https://gw.alicdn.com/tfs/TB16Sf834v1gK0jSZFFXXb0sXXa-640-361.jpg",
+      "href":"//s.click.ele.me/EdxwCmu",
+      "platform":"饿了么",
+      "id":20150318020002597
+    }
+  ],
+  "status":0
+}
